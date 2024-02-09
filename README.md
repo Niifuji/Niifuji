@@ -1,4 +1,4 @@
-# Bonjour, jolie demoiselle!👋
+👋
 <div id="header" align="middle">
   <img src="Screenshot_2023-11-30_231327-removebg.png" width="300"/>
 </div>
