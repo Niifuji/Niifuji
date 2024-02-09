@@ -1,7 +1,6 @@
 # Bonjour, jolie demoiselle!👋
-<div id="header" align="left">
+<div id="header" align="middle">
   <img src="Screenshot_2023-11-30_231327-removebg.png" width="300"/>
-  <img src="z5033005982882_ac2ad52fc792813fe83cc8d795504f4a-PhotoRoom.png-PhotoRoom.png" width="300"/>
 </div>
 
 
