@@ -1,9 +1,8 @@
 👋
 <div id="header" align="middle">
   <img src="icon (2).png" width="300"/>
+  <img src="icon.png" width="300"/>
   <img src="Screenshot_2023-11-30_231327-removebg.png" width="300"/>
-  <img src="Alicia - Isekai Ojisan.jpg" width="300"/>
-  
 </div>
 
 
