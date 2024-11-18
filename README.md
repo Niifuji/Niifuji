@@ -29,7 +29,7 @@
   <h2>Programming Skill (Or currently learning)</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pycharm,js,git,tensorflow,docker,postgres,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pycharm,git,tensorflow,docker,postgres,linux,neovim" />
   </a>
 </p>
 <div align = "center">
