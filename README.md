@@ -4,7 +4,7 @@
     🎓 Studying at University of Information Technology, Faculty of Information Systems.<br>
     📧 Email: <a href="mailto:tonquoc1412@gmail.com">tonquoc1412@gmail.com</a><br>
     🚀 Aspiring Data Engineer with a passion for AI/ML.<br>
-    🎮 Avid video game enthusiast and music collector (digital & vinyl).
+    🎮 Avid video game enthusiast and anime/music collector (digital & physical).
   </p>
 </div>
 
