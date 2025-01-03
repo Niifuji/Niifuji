@@ -27,7 +27,7 @@
 ## 🛠️ Programming Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pycharm,git,tensorflow,docker,postgres,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pycharm,git,pytorch,docker,postgres,linux,neovim" />
   </a>
 </p>
 
