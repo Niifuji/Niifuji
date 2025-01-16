@@ -9,7 +9,7 @@
 
 📧 Email: [tonquoc1412@gmail.com](mailto:tonquoc1412@gmail.com)
 
-🚀 Aspiring Data Engineer with a passion for AI/ML.
+🚀 Coder with a passion for AI/ML.
 
 🎮 Avid game enthusiast and anime/music collector (both digital & physical).
 
