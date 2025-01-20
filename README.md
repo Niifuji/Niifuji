@@ -24,7 +24,7 @@
 </table>
 
 
-## 🛠️ Programming Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,pycharm,git,pytorch,docker,postgres,linux,neovim" />
@@ -35,10 +35,7 @@
 <p align="center">
   <img alt="DaVinci Resolve" src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white"/>
   <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=OBS-Studio&logoColor=white"/>
-  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=Obsidian&logoColor=white"/>
   <img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=white"/>
-  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=Hyprland&logoColor=black"/>
-  <img alt="FL Studio" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FLStudio/flstudio1.svg"/>
 </p>
 
 ## 📊 GitHub Stats
