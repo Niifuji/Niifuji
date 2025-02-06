@@ -7,9 +7,9 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width ="25"><b> Studying at VNU-HCM - University of Information Technology</b>
   
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="25"><b> Coder</b>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width ="25"><b> I do coding</b>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="25"><b> Love listening to music and playing games</b>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b6/512.gif" width ="25"><b> And gaming/music.</b>
 
 
 
