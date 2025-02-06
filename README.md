@@ -17,7 +17,7 @@
 <td width="30%" style="border: none;">
 <div align="center">
   <h3>ケーキ食べる  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f382/512.gif" width ="25"></h3>
-  <img src="output.gif" alt="Cake Animation" width="360"/>
+  <img src="output.gif" alt="Cake Animation" width="270"/>
 </div>
 </td>
 </tr>
