@@ -38,12 +38,5 @@
   <img alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=GIMP&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niifuji&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niifuji&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="160"/>
-</p>
 
-<p align="center">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" width ="25"><b> tonquoc1412@gmail.com</b>
-</p>
+@djmeow0407
